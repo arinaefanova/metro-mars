@@ -1,0 +1,19 @@
+.blur-sheet {
+    background-color: rgba(26, 26, 26, 0.8); /* Background color with transparency */
+    backdrop-filter: blur(60px); /* Setting the blur radius value */
+    color: #FFFFFF;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adjust the values as needed */
+    letter-spacing: 10px;
+}
+
+
+
+.button{
+    background-color: #d4bba4;
+    color: #1a1a1a;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+    letter-spacing: 12px;
+}
