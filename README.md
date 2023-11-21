@@ -30,6 +30,16 @@ displaying up-to-date schedules and operational information via web interfaces. 
   - Technicians can monitor track conditions and report issues promptly.
   - Administrators manage user accounts, analyze system statistics, and oversee Mars transit usage patterns.
 
+## Use case diagrams
+
+<p align="center">
+  <img src="/screenshots/use case - 1.png" alt="Use case - 1" width="500"/>
+</p>
+
+<p align="center">
+  <img src="/screenshots/use case - 2.png" alt="Use case - 2" width="500"/>
+</p>
+
 ## Requirements:
 
 1. Node.js: v18.18.0
