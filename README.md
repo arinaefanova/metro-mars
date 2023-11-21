@@ -87,5 +87,46 @@ npm run dev
 ```
 The frontend development server will start, and your application will be accessible at http://localhost:8080
 
+## Screenshots of web application
+
+### Homepage
+
+<p align="center">
+  <img src="/screenshots/Homepage.png" alt="Homepage" width="900"/>
+</p>
+
+### Managing accounts by an admin
+
+<p align="center">
+  <img src="/screenshots/Manage_accounts.png" alt="Manage accounts.png" width="900"/>
+</p>
+
+### Crash management by a technician
+
+<p align="center">
+  <img src="/screenshots/Manage_crashes.png" alt="Manage crashes.png" width="900"/>
+</p>
+
+### Buying a ticket
+
+<p align="center">
+  <img src="/screenshots/Buy_ticket.png" alt="Buy ticket" width="900"/>
+</p>
+
+### Map of metro
+
+<p align="center">
+  <img src="/screenshots/Map.png" alt="Map" width="900"/>
+</p>
+
+### Building a route
+
+<p align="center">
+  <img src="/screenshots/build_route.png" alt="Build a route" width="900"/>
+</p>
+
+
+
+
 
 
